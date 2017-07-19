@@ -7,12 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		25378C7B1E8C1A900074831E /* LoadingViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25378C7A1E8C1A900074831E /* LoadingViewTests.swift */; };
+		25378C7D1E8C237F0074831E /* BasicPopViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25378C7C1E8C237F0074831E /* BasicPopViewTests.swift */; };
+		25378C891E8C2B1D0074831E /* String+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25378C881E8C2B1D0074831E /* String+Extension.swift */; };
+		25378C8B1E8C32E20074831E /* UIColor+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25378C8A1E8C32E20074831E /* UIColor+Extension.swift */; };
+		25378CAE1E8C3DC50074831E /* Brazil 1 vs Germany 7 - Audio Goals Radio.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 25378CA51E8C3DC50074831E /* Brazil 1 vs Germany 7 - Audio Goals Radio.mp3 */; };
+		25378CAF1E8C3DC50074831E /* Cuckoo-bird-song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 25378CA61E8C3DC50074831E /* Cuckoo-bird-song.mp3 */; };
+		25378CB01E8C3DC50074831E /* Ice-cracking-sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 25378CA71E8C3DC50074831E /* Ice-cracking-sound.mp3 */; };
+		25378CB11E8C3DC50074831E /* Large-bamboo-wind-chimes.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 25378CA81E8C3DC50074831E /* Large-bamboo-wind-chimes.mp3 */; };
+		25378CB21E8C3DC50074831E /* Namika - Lieblingsmensch.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 25378CA91E8C3DC50074831E /* Namika - Lieblingsmensch.mp3 */; };
+		25378CB31E8C3DC50074831E /* Notification-melody.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 25378CAA1E8C3DC50074831E /* Notification-melody.mp3 */; };
+		25378CB41E8C3DC50074831E /* ORELSAN La Terre Est Ronde [ PAROLE].mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 25378CAB1E8C3DC50074831E /* ORELSAN La Terre Est Ronde [ PAROLE].mp3 */; };
+		25378CB51E8C3DC50074831E /* Pouring-water-into-bathtub.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 25378CAC1E8C3DC50074831E /* Pouring-water-into-bathtub.mp3 */; };
+		25378CB61E8C3DC50074831E /* Rain-dripping-sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 25378CAD1E8C3DC50074831E /* Rain-dripping-sound.mp3 */; };
+		25378CBA1E8C3EAC0074831E /* HomeViewControllerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25378CB91E8C3EAC0074831E /* HomeViewControllerTests.swift */; };
+		25378CBC1E8C42FF0074831E /* UIColorExtensionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25378CBB1E8C42FF0074831E /* UIColorExtensionTests.swift */; };
+		25562CD41E8BA12000ADD077 /* Musics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25562CD31E8BA12000ADD077 /* Musics.swift */; };
+		25562CD81E8BA30B00ADD077 /* FileReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25562CD71E8BA30B00ADD077 /* FileReader.swift */; };
+		25562CDA1E8BA34E00ADD077 /* urls.json in Resources */ = {isa = PBXBuildFile; fileRef = 25562CD91E8BA34E00ADD077 /* urls.json */; };
+		25BE5A8E1E8BB15B007171D9 /* UIImageView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BE5A8D1E8BB15B007171D9 /* UIImageView+Extension.swift */; };
+		25BE5A901E8BB6B2007171D9 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BE5A8F1E8BB6B2007171D9 /* HomeViewController.swift */; };
+		25BE5A921E8BBA10007171D9 /* BasicPopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BE5A911E8BBA10007171D9 /* BasicPopView.swift */; };
+		25BE5A941E8BBA9E007171D9 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BE5A931E8BBA9E007171D9 /* LoadingView.swift */; };
+		25BE5A961E8BBADB007171D9 /* LoadingView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 25BE5A951E8BBADB007171D9 /* LoadingView.xib */; };
+		25BE5A981E8BC81C007171D9 /* PlayerDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BE5A971E8BC81C007171D9 /* PlayerDataSource.swift */; };
+		25BE5A9A1E8BC962007171D9 /* PlayerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BE5A991E8BC962007171D9 /* PlayerViewModel.swift */; };
+		25BE5A9E1E8BEBD5007171D9 /* FileReaderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BE5A9D1E8BEBD5007171D9 /* FileReaderTests.swift */; };
+		25BE5AA01E8BF156007171D9 /* MusicsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BE5A9F1E8BF156007171D9 /* MusicsTests.swift */; };
+		25BE5AA21E8BF518007171D9 /* UIImageViewExtensionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BE5AA11E8BF518007171D9 /* UIImageViewExtensionTests.swift */; };
+		25BE5AA61E8BF912007171D9 /* PlayerViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BE5AA51E8BF912007171D9 /* PlayerViewModelTests.swift */; };
+		25BE5AA81E8C0946007171D9 /* PlayerViewControllerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BE5AA71E8C0946007171D9 /* PlayerViewControllerTests.swift */; };
 		25D28B4C1E8AC7C3002EC4A4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D28B4B1E8AC7C3002EC4A4 /* AppDelegate.swift */; };
-		25D28B4E1E8AC7C3002EC4A4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D28B4D1E8AC7C3002EC4A4 /* ViewController.swift */; };
+		25D28B4E1E8AC7C3002EC4A4 /* PlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D28B4D1E8AC7C3002EC4A4 /* PlayerViewController.swift */; };
 		25D28B511E8AC7C3002EC4A4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25D28B4F1E8AC7C3002EC4A4 /* Main.storyboard */; };
 		25D28B531E8AC7C3002EC4A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 25D28B521E8AC7C3002EC4A4 /* Assets.xcassets */; };
 		25D28B561E8AC7C3002EC4A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25D28B541E8AC7C3002EC4A4 /* LaunchScreen.storyboard */; };
-		25D28B611E8AC7C3002EC4A4 /* Challenge_GuilhermeDaSilvaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D28B601E8AC7C3002EC4A4 /* Challenge_GuilhermeDaSilvaTests.swift */; };
 		25D28B6C1E8AC7C3002EC4A4 /* Challenge_GuilhermeDaSilvaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D28B6B1E8AC7C3002EC4A4 /* Challenge_GuilhermeDaSilvaUITests.swift */; };
 /* End PBXBuildFile section */
 
@@ -34,15 +63,44 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		25378C7A1E8C1A900074831E /* LoadingViewTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoadingViewTests.swift; sourceTree = "<group>"; };
+		25378C7C1E8C237F0074831E /* BasicPopViewTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BasicPopViewTests.swift; sourceTree = "<group>"; };
+		25378C881E8C2B1D0074831E /* String+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+Extension.swift"; sourceTree = "<group>"; };
+		25378C8A1E8C32E20074831E /* UIColor+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+Extension.swift"; sourceTree = "<group>"; };
+		25378CA51E8C3DC50074831E /* Brazil 1 vs Germany 7 - Audio Goals Radio.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Brazil 1 vs Germany 7 - Audio Goals Radio.mp3"; sourceTree = "<group>"; };
+		25378CA61E8C3DC50074831E /* Cuckoo-bird-song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Cuckoo-bird-song.mp3"; sourceTree = "<group>"; };
+		25378CA71E8C3DC50074831E /* Ice-cracking-sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ice-cracking-sound.mp3"; sourceTree = "<group>"; };
+		25378CA81E8C3DC50074831E /* Large-bamboo-wind-chimes.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Large-bamboo-wind-chimes.mp3"; sourceTree = "<group>"; };
+		25378CA91E8C3DC50074831E /* Namika - Lieblingsmensch.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Namika - Lieblingsmensch.mp3"; sourceTree = "<group>"; };
+		25378CAA1E8C3DC50074831E /* Notification-melody.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Notification-melody.mp3"; sourceTree = "<group>"; };
+		25378CAB1E8C3DC50074831E /* ORELSAN La Terre Est Ronde [ PAROLE].mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ORELSAN La Terre Est Ronde [ PAROLE].mp3"; sourceTree = "<group>"; };
+		25378CAC1E8C3DC50074831E /* Pouring-water-into-bathtub.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Pouring-water-into-bathtub.mp3"; sourceTree = "<group>"; };
+		25378CAD1E8C3DC50074831E /* Rain-dripping-sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Rain-dripping-sound.mp3"; sourceTree = "<group>"; };
+		25378CB91E8C3EAC0074831E /* HomeViewControllerTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewControllerTests.swift; sourceTree = "<group>"; };
+		25378CBB1E8C42FF0074831E /* UIColorExtensionTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIColorExtensionTests.swift; sourceTree = "<group>"; };
+		25562CD31E8BA12000ADD077 /* Musics.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Musics.swift; sourceTree = "<group>"; };
+		25562CD71E8BA30B00ADD077 /* FileReader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FileReader.swift; sourceTree = "<group>"; };
+		25562CD91E8BA34E00ADD077 /* urls.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = urls.json; sourceTree = "<group>"; };
+		25BE5A8D1E8BB15B007171D9 /* UIImageView+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImageView+Extension.swift"; sourceTree = "<group>"; };
+		25BE5A8F1E8BB6B2007171D9 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		25BE5A911E8BBA10007171D9 /* BasicPopView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BasicPopView.swift; sourceTree = "<group>"; };
+		25BE5A931E8BBA9E007171D9 /* LoadingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
+		25BE5A951E8BBADB007171D9 /* LoadingView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LoadingView.xib; sourceTree = "<group>"; };
+		25BE5A971E8BC81C007171D9 /* PlayerDataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerDataSource.swift; sourceTree = "<group>"; };
+		25BE5A991E8BC962007171D9 /* PlayerViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerViewModel.swift; sourceTree = "<group>"; };
+		25BE5A9D1E8BEBD5007171D9 /* FileReaderTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FileReaderTests.swift; sourceTree = "<group>"; };
+		25BE5A9F1E8BF156007171D9 /* MusicsTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MusicsTests.swift; sourceTree = "<group>"; };
+		25BE5AA11E8BF518007171D9 /* UIImageViewExtensionTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIImageViewExtensionTests.swift; sourceTree = "<group>"; };
+		25BE5AA51E8BF912007171D9 /* PlayerViewModelTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerViewModelTests.swift; sourceTree = "<group>"; };
+		25BE5AA71E8C0946007171D9 /* PlayerViewControllerTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerViewControllerTests.swift; sourceTree = "<group>"; };
 		25D28B481E8AC7C3002EC4A4 /* Challenge_GuilhermeDaSilva.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Challenge_GuilhermeDaSilva.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		25D28B4B1E8AC7C3002EC4A4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		25D28B4D1E8AC7C3002EC4A4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		25D28B4D1E8AC7C3002EC4A4 /* PlayerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerViewController.swift; sourceTree = "<group>"; };
 		25D28B501E8AC7C3002EC4A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		25D28B521E8AC7C3002EC4A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		25D28B551E8AC7C3002EC4A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		25D28B571E8AC7C3002EC4A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		25D28B5C1E8AC7C3002EC4A4 /* Challenge_GuilhermeDaSilvaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Challenge_GuilhermeDaSilvaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		25D28B601E8AC7C3002EC4A4 /* Challenge_GuilhermeDaSilvaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge_GuilhermeDaSilvaTests.swift; sourceTree = "<group>"; };
 		25D28B621E8AC7C3002EC4A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		25D28B671E8AC7C3002EC4A4 /* Challenge_GuilhermeDaSilvaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Challenge_GuilhermeDaSilvaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		25D28B6B1E8AC7C3002EC4A4 /* Challenge_GuilhermeDaSilvaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge_GuilhermeDaSilvaUITests.swift; sourceTree = "<group>"; };
@@ -74,6 +132,161 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		25378C7E1E8C2A3F0074831E /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				25BE5A991E8BC962007171D9 /* PlayerViewModel.swift */,
+			);
+			name = ViewModel;
+			sourceTree = "<group>";
+		};
+		25378C7F1E8C2A470074831E /* Protocol */ = {
+			isa = PBXGroup;
+			children = (
+				25BE5A971E8BC81C007171D9 /* PlayerDataSource.swift */,
+			);
+			name = Protocol;
+			sourceTree = "<group>";
+		};
+		25378C801E8C2A500074831E /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				25BE5A8F1E8BB6B2007171D9 /* HomeViewController.swift */,
+				25D28B4D1E8AC7C3002EC4A4 /* PlayerViewController.swift */,
+			);
+			name = ViewController;
+			sourceTree = "<group>";
+		};
+		25378C811E8C2A580074831E /* AppDelegate */ = {
+			isa = PBXGroup;
+			children = (
+				25D28B4B1E8AC7C3002EC4A4 /* AppDelegate.swift */,
+			);
+			name = AppDelegate;
+			sourceTree = "<group>";
+		};
+		25378C821E8C2A640074831E /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				25D28B4F1E8AC7C3002EC4A4 /* Main.storyboard */,
+			);
+			name = Storyboard;
+			sourceTree = "<group>";
+		};
+		25378C831E8C2A6B0074831E /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				25BE5A8D1E8BB15B007171D9 /* UIImageView+Extension.swift */,
+				25378C881E8C2B1D0074831E /* String+Extension.swift */,
+				25378C8A1E8C32E20074831E /* UIColor+Extension.swift */,
+			);
+			name = Extension;
+			sourceTree = "<group>";
+		};
+		25378C841E8C2A730074831E /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				25D28B521E8AC7C3002EC4A4 /* Assets.xcassets */,
+				25D28B541E8AC7C3002EC4A4 /* LaunchScreen.storyboard */,
+				25D28B571E8AC7C3002EC4A4 /* Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		25378C851E8C2A7B0074831E /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				25562CD31E8BA12000ADD077 /* Musics.swift */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		25378C861E8C2A8C0074831E /* Mocks */ = {
+			isa = PBXGroup;
+			children = (
+				25562CD71E8BA30B00ADD077 /* FileReader.swift */,
+				25562CD91E8BA34E00ADD077 /* urls.json */,
+			);
+			name = Mocks;
+			sourceTree = "<group>";
+		};
+		25378C871E8C2A980074831E /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				25BE5A911E8BBA10007171D9 /* BasicPopView.swift */,
+				25BE5A931E8BBA9E007171D9 /* LoadingView.swift */,
+				25BE5A951E8BBADB007171D9 /* LoadingView.xib */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		25378C9E1E8C3B0D0074831E /* ViewsTests */ = {
+			isa = PBXGroup;
+			children = (
+				25378C7A1E8C1A900074831E /* LoadingViewTests.swift */,
+				25378C7C1E8C237F0074831E /* BasicPopViewTests.swift */,
+			);
+			name = ViewsTests;
+			sourceTree = "<group>";
+		};
+		25378C9F1E8C3B140074831E /* ControllersTests */ = {
+			isa = PBXGroup;
+			children = (
+				25BE5AA71E8C0946007171D9 /* PlayerViewControllerTests.swift */,
+				25378CB91E8C3EAC0074831E /* HomeViewControllerTests.swift */,
+			);
+			name = ControllersTests;
+			sourceTree = "<group>";
+		};
+		25378CA01E8C3B1D0074831E /* ViewModelsTests */ = {
+			isa = PBXGroup;
+			children = (
+				25BE5AA51E8BF912007171D9 /* PlayerViewModelTests.swift */,
+			);
+			name = ViewModelsTests;
+			sourceTree = "<group>";
+		};
+		25378CA11E8C3B270074831E /* ExtensionsTests */ = {
+			isa = PBXGroup;
+			children = (
+				25BE5AA11E8BF518007171D9 /* UIImageViewExtensionTests.swift */,
+				25378CBB1E8C42FF0074831E /* UIColorExtensionTests.swift */,
+			);
+			name = ExtensionsTests;
+			sourceTree = "<group>";
+		};
+		25378CA21E8C3B300074831E /* ModelsTests */ = {
+			isa = PBXGroup;
+			children = (
+				25BE5A9F1E8BF156007171D9 /* MusicsTests.swift */,
+			);
+			name = ModelsTests;
+			sourceTree = "<group>";
+		};
+		25378CA31E8C3B370074831E /* ReadersTests */ = {
+			isa = PBXGroup;
+			children = (
+				25BE5A9D1E8BEBD5007171D9 /* FileReaderTests.swift */,
+			);
+			name = ReadersTests;
+			sourceTree = "<group>";
+		};
+		25378CA41E8C3DC50074831E /* Songs */ = {
+			isa = PBXGroup;
+			children = (
+				25378CA51E8C3DC50074831E /* Brazil 1 vs Germany 7 - Audio Goals Radio.mp3 */,
+				25378CA61E8C3DC50074831E /* Cuckoo-bird-song.mp3 */,
+				25378CA71E8C3DC50074831E /* Ice-cracking-sound.mp3 */,
+				25378CA81E8C3DC50074831E /* Large-bamboo-wind-chimes.mp3 */,
+				25378CA91E8C3DC50074831E /* Namika - Lieblingsmensch.mp3 */,
+				25378CAA1E8C3DC50074831E /* Notification-melody.mp3 */,
+				25378CAB1E8C3DC50074831E /* ORELSAN La Terre Est Ronde [ PAROLE].mp3 */,
+				25378CAC1E8C3DC50074831E /* Pouring-water-into-bathtub.mp3 */,
+				25378CAD1E8C3DC50074831E /* Rain-dripping-sound.mp3 */,
+			);
+			path = Songs;
+			sourceTree = "<group>";
+		};
 		25D28B3F1E8AC7C3002EC4A4 = {
 			isa = PBXGroup;
 			children = (
@@ -97,12 +310,17 @@
 		25D28B4A1E8AC7C3002EC4A4 /* Challenge_GuilhermeDaSilva */ = {
 			isa = PBXGroup;
 			children = (
-				25D28B4B1E8AC7C3002EC4A4 /* AppDelegate.swift */,
-				25D28B4D1E8AC7C3002EC4A4 /* ViewController.swift */,
-				25D28B4F1E8AC7C3002EC4A4 /* Main.storyboard */,
-				25D28B521E8AC7C3002EC4A4 /* Assets.xcassets */,
-				25D28B541E8AC7C3002EC4A4 /* LaunchScreen.storyboard */,
-				25D28B571E8AC7C3002EC4A4 /* Info.plist */,
+				25378CA41E8C3DC50074831E /* Songs */,
+				25378C811E8C2A580074831E /* AppDelegate */,
+				25378C801E8C2A500074831E /* ViewController */,
+				25378C7F1E8C2A470074831E /* Protocol */,
+				25378C7E1E8C2A3F0074831E /* ViewModel */,
+				25378C821E8C2A640074831E /* Storyboard */,
+				25378C831E8C2A6B0074831E /* Extension */,
+				25378C841E8C2A730074831E /* Resources */,
+				25378C851E8C2A7B0074831E /* Models */,
+				25378C861E8C2A8C0074831E /* Mocks */,
+				25378C871E8C2A980074831E /* Views */,
 			);
 			path = Challenge_GuilhermeDaSilva;
 			sourceTree = "<group>";
@@ -110,8 +328,13 @@
 		25D28B5F1E8AC7C3002EC4A4 /* Challenge_GuilhermeDaSilvaTests */ = {
 			isa = PBXGroup;
 			children = (
-				25D28B601E8AC7C3002EC4A4 /* Challenge_GuilhermeDaSilvaTests.swift */,
 				25D28B621E8AC7C3002EC4A4 /* Info.plist */,
+				25378CA31E8C3B370074831E /* ReadersTests */,
+				25378CA21E8C3B300074831E /* ModelsTests */,
+				25378CA11E8C3B270074831E /* ExtensionsTests */,
+				25378CA01E8C3B1D0074831E /* ViewModelsTests */,
+				25378C9F1E8C3B140074831E /* ControllersTests */,
+				25378C9E1E8C3B0D0074831E /* ViewsTests */,
 			);
 			path = Challenge_GuilhermeDaSilvaTests;
 			sourceTree = "<group>";
@@ -232,9 +455,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				25378CB41E8C3DC50074831E /* ORELSAN La Terre Est Ronde [ PAROLE].mp3 in Resources */,
+				25378CB11E8C3DC50074831E /* Large-bamboo-wind-chimes.mp3 in Resources */,
 				25D28B561E8AC7C3002EC4A4 /* LaunchScreen.storyboard in Resources */,
+				25378CAE1E8C3DC50074831E /* Brazil 1 vs Germany 7 - Audio Goals Radio.mp3 in Resources */,
+				25378CB31E8C3DC50074831E /* Notification-melody.mp3 in Resources */,
+				25378CB51E8C3DC50074831E /* Pouring-water-into-bathtub.mp3 in Resources */,
+				25378CB01E8C3DC50074831E /* Ice-cracking-sound.mp3 in Resources */,
 				25D28B531E8AC7C3002EC4A4 /* Assets.xcassets in Resources */,
+				25562CDA1E8BA34E00ADD077 /* urls.json in Resources */,
+				25BE5A961E8BBADB007171D9 /* LoadingView.xib in Resources */,
+				25378CB21E8C3DC50074831E /* Namika - Lieblingsmensch.mp3 in Resources */,
 				25D28B511E8AC7C3002EC4A4 /* Main.storyboard in Resources */,
+				25378CAF1E8C3DC50074831E /* Cuckoo-bird-song.mp3 in Resources */,
+				25378CB61E8C3DC50074831E /* Rain-dripping-sound.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,8 +493,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				25D28B4E1E8AC7C3002EC4A4 /* ViewController.swift in Sources */,
+				25BE5A8E1E8BB15B007171D9 /* UIImageView+Extension.swift in Sources */,
+				25378C891E8C2B1D0074831E /* String+Extension.swift in Sources */,
+				25BE5A921E8BBA10007171D9 /* BasicPopView.swift in Sources */,
+				25378C8B1E8C32E20074831E /* UIColor+Extension.swift in Sources */,
+				25562CD81E8BA30B00ADD077 /* FileReader.swift in Sources */,
+				25BE5A981E8BC81C007171D9 /* PlayerDataSource.swift in Sources */,
+				25D28B4E1E8AC7C3002EC4A4 /* PlayerViewController.swift in Sources */,
 				25D28B4C1E8AC7C3002EC4A4 /* AppDelegate.swift in Sources */,
+				25BE5A901E8BB6B2007171D9 /* HomeViewController.swift in Sources */,
+				25562CD41E8BA12000ADD077 /* Musics.swift in Sources */,
+				25BE5A941E8BBA9E007171D9 /* LoadingView.swift in Sources */,
+				25BE5A9A1E8BC962007171D9 /* PlayerViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -268,7 +512,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				25D28B611E8AC7C3002EC4A4 /* Challenge_GuilhermeDaSilvaTests.swift in Sources */,
+				25BE5AA81E8C0946007171D9 /* PlayerViewControllerTests.swift in Sources */,
+				25378C7D1E8C237F0074831E /* BasicPopViewTests.swift in Sources */,
+				25BE5A9E1E8BEBD5007171D9 /* FileReaderTests.swift in Sources */,
+				25378CBA1E8C3EAC0074831E /* HomeViewControllerTests.swift in Sources */,
+				25378CBC1E8C42FF0074831E /* UIColorExtensionTests.swift in Sources */,
+				25BE5AA01E8BF156007171D9 /* MusicsTests.swift in Sources */,
+				25BE5AA21E8BF518007171D9 /* UIImageViewExtensionTests.swift in Sources */,
+				25BE5AA61E8BF912007171D9 /* PlayerViewModelTests.swift in Sources */,
+				25378C7B1E8C1A900074831E /* LoadingViewTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -413,6 +665,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Challenge_GuilhermeDaSilva/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ecosia.Challenge-GuilhermeDaSilva";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -425,6 +678,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Challenge_GuilhermeDaSilva/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ecosia.Challenge-GuilhermeDaSilva";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -505,6 +759,7 @@
 				25D28B721E8AC7C3002EC4A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		25D28B731E8AC7C3002EC4A4 /* Build configuration list for PBXNativeTarget "Challenge_GuilhermeDaSilvaTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +768,7 @@
 				25D28B751E8AC7C3002EC4A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		25D28B761E8AC7C3002EC4A4 /* Build configuration list for PBXNativeTarget "Challenge_GuilhermeDaSilvaUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +777,7 @@
 				25D28B781E8AC7C3002EC4A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

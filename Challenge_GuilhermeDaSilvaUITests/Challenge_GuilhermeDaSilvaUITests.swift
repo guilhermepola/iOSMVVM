@@ -3,7 +3,7 @@
 //  Challenge_GuilhermeDaSilvaUITests
 //
 //  Created by Guilherme Pola on 29/3/17.
-//  Copyright © 2017 Ecosia. All rights reserved.
+//  Copyright © 2017 Guilherme Pola. All rights reserved.
 //
 
 import XCTest
