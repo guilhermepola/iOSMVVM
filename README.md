@@ -1,15 +1,14 @@
 
 # README #
+# Architecture MVVM Swift
 
-#Architecture MVVM Swift#
-
-##Summary##
+## Summary
 * Requirement
 * Getting Started
 * Running the tests
 * Seeing Coverage Test
 
-### Requirement ###
+### Requirement
 *This project uses:
 
 * Swift 3.1
@@ -22,7 +21,7 @@ $ sudo gem install cocoapods
 
 * Xcode 8.x
 
-### Getting Started ###
+### Getting Started
 
 * Cloned project
 * Open the directory  in terminal where has the file Challenge_GuilhermeDaSilva.xcodeproj
@@ -33,10 +32,10 @@ pod install
 * Always that you want open the project, you have to open the Challenge_GuilhermeDaSilva.xcworkspace
 
 
-###Running the tests###
+### Running the tests
 * Cmmd + U
 
-###Seeing Coverage Test###
+### Seeing Coverage Test
 * Selected tests target
 * Cmmd + U 
 * Clicked in Report Navigation
